@@ -1,0 +1,22 @@
+@charset "UTF-8";
+
+/* Mobile First */
+
+:root {
+    --cor1: #F3EFE5;
+    --cor2: #E9DFC7;
+    --cor3: #CEBEA3;
+    --cor4: #BFCCA8;
+    --cor5: #AF9C7C;
+}
+
+* {
+    margin: 0px;
+    height: 0px;
+}
+
+#header {
+    background-color: var(--cor5);
+    width: 100vw;
+    height: 15vh;
+}
