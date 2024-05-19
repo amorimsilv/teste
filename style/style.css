@@ -9,6 +9,8 @@
     --cor3: #CEBEA3;
     --cor4: #BFCCA8;
     --cor5: #AF9C7C;
+
+    --fonte1: @import url('https://fonts.googleapis.com/css2?family=Major+Mono+Display&display=swap');
 }
 
 * {
