@@ -19,5 +19,14 @@
 #header {
     background-color: var(--cor5);
     width: 100vw;
-    height: 15vh;
+    height: 12vh;
+}
+
+#principaltext {
+    position: absolute;
+
+    font-size: 10vw;
+
+    margin-left: 250px;
+    margin-top: 40px;
 }
